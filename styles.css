@@ -53,7 +53,7 @@ img {
     margin-inline: auto;
 }
 
-/* ===== Header ===== */
+/*  Header  */
 .header {
     position: fixed;
     top: 0;
@@ -87,6 +87,7 @@ img {
     background: rgba(46, 204, 113, 0.12);
     padding: 0.2rem 0.1rem;
     border-radius: 6px;
+}
 
 .brand-name {
     font-weight: 600;
