@@ -81,12 +81,12 @@ img {
 .logo-icon {
     font-family: 'Fira Code', monospace;
     font-size: 1.35rem;
-    font-weight: 500;
+    width: 3rem;
+    font-weight: 50;
     color: var(--accent-green);
     background: rgba(46, 204, 113, 0.12);
-    padding: 0.3rem 0.5rem;
+    padding: 0.2rem 0.1rem;
     border-radius: 6px;
-}
 
 .brand-name {
     font-weight: 600;
